@@ -2,6 +2,7 @@ Dependencies need to install
 1. Python
 2. Pip
 3. Virtualenv
+4. sqlite3
 
 Packages are install or not to check before running project
 -> pip install -r requirements.txt
